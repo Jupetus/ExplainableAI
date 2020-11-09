@@ -1,10 +1,10 @@
 # ExplainableAI
 
 
-Collection of experiments for methods used for explainable AI
+Collection of experiments that can be used for explainable AI
 
 ---
 
 Implementations
 * Gradient x input
-
+* Adversial attack
