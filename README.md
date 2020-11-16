@@ -30,7 +30,7 @@ Adversial attack aims to introduce a noice which will cause our prediction to go
 
 As implemented in https://arxiv.org/pdf/1910.01279.pdf
 
-Scorecam aims to make a hypothesis what region of the image our network will make its decision based on.
+Scorecam aims to make a hypothesis what region of the image our network will make its decision based on. Whiter the pixels are in the picture, more attention the model pays to the region. 
 
 | Original Image | Scorecam Focus |
 | ------------- | ------------- |
